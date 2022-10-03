@@ -1,0 +1,3 @@
+Sitemap: https://www.colmena.digital/sitemap.xml
+User-agent: *
+Disallow:
